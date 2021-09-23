@@ -376,6 +376,7 @@ body {
   text-align: left;
   margin: 0;
   padding-bottom: 20px;
+  white-space: nowrap;
 }
 
 .footer__column-links {
@@ -383,7 +384,7 @@ body {
   margin: 0;
   padding: 0 0 16px 0;
   text-decoration: none;
-
+  white-space: nowrap
 }
 
 .footer__column-link {
