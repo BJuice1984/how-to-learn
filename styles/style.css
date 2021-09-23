@@ -306,7 +306,7 @@
 
 }
 
-.column__content_copyright {
+.footer__columns_copyright {
   flex-basis: 711px;
   margin: 0;
   display: flex;
@@ -325,7 +325,7 @@
   display: flex;
 }
 
-.column__content_info {
+.footer__columns_info {
   color: white;
 }
 
@@ -363,7 +363,7 @@
   color: #ff6666;
 }
 
-.column__content_social {
+.footer__columns_social {
   color: white;
 }
 
