@@ -32,7 +32,7 @@ body {
   background-repeat: no-repeat;
 }
 
-.logo-place-header {
+.logo_place_header {
   height: 32px;
   background-image: url('../images/logo_place_header.svg');
   position: absolute;
@@ -307,7 +307,7 @@ body {
 }
 
 /* и элемента с модификатором вида ключ-значение */
-.table__cell-theme-dark {
+.table__cell_theme_dark {
   color: white;
   width: 200px;
   margin-top: 80px;
@@ -315,11 +315,11 @@ body {
   z-index: 1;
 }
 
-.section-title__theme-dark {
+.section-title__theme_dark {
   color: white;
 }
 
-.section-subtitle__theme-dark {
+.section-subtitle__theme_dark {
   color: white;
 }
 
@@ -339,14 +339,14 @@ body {
   position: relative;
 }
 
-.logo-place-footer {
+.logo_place_footer {
   height: 35px;
   display: flex;
   background-image: url('../images/logo_place_footer.svg');
 
 }
 
-.footer__column-content-copyright {
+.footer__column_content_copyright {
   flex-basis: 711px;
   margin: 0;
   display: flex;
@@ -364,7 +364,7 @@ body {
   display: flex;
 }
 
-.footer__column-content-info {
+.footer__column_content_info {
   color: white;
 }
 
@@ -402,11 +402,11 @@ body {
   color: #ff6666;
 }
 
-.footer__column-content-social {
+.footer__column_content_social {
   color: white;
 }
 
-.footer__link-logo {
+.footer__link_logo {
   padding-right: 10px;
 }
 
