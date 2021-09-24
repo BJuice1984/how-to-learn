@@ -103,12 +103,12 @@
 }
 
 .two-columns__brief {
- width: 175px;
- font-size: 18px;
- font-weight: normal;
- line-height: 1.2;
- color: #2f80ed;
- margin: 0;
+  width: 175px;
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 1.2;
+  color: #2f80ed;
+  margin: 0;
 }
 
 .two-columns__main-text {
@@ -306,7 +306,7 @@
 
 }
 
-.footer__columns_copyright {
+.footer__column_content_copyright {
   flex-basis: 711px;
   margin: 0;
   display: flex;
@@ -325,7 +325,7 @@
   display: flex;
 }
 
-.footer__columns_info {
+.footer__column_content_info {
   color: white;
 }
 
@@ -363,7 +363,7 @@
   color: #ff6666;
 }
 
-.footer__columns_social {
+.footer__column_content_social {
   color: white;
 }
 
